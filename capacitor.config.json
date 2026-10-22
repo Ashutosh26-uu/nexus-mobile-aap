@@ -3,7 +3,7 @@
   "appName": "Sehatra",
   "webDir": "www",
   "server": {
-    "url": "https://sehatra-50046997916.development.catalystappsail.in",
+    "url": "https://sehatra-50047089327.development.catalystappsail.in",
     "errorPath": "offline.html",
     "androidScheme": "https"
   },
